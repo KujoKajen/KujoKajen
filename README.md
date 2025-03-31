@@ -2,22 +2,22 @@
 - 👀 I’m interested in sharing, living, eating, good stuff and enjoy new things..most of the time.
 - 🌱 I’m currently learning how to use GitHub, to share DayZ editor files, map builds, Ai setups
 - 💞️ I’m looking to be successful in helping others have fun on any size server and in everyday life.
-- 📫 How to reach me discord channel: Shade of Life
-- 😄 Where there is Shade let there be life.
-- ⚡ The greatest Essence of all, is yours. Knowing "We" are all part of the, Essence of everything.
+   How to reach me discord channel: Shade of Life
+  Where there is Shade let there be life.
+  The greatest Essence of all, is yours. Knowing "We" are all part of the, Essence of everything.
 
-- I just joined github today 3-30-2025. I have a youtube channel that I share tutorials/hints ect and game play on
-- as well as other things I record while testing edits/builds. YouTube channel is : Kujo's Place
-- It's the one with DayZ BlackOut Corvette pictured, I noticed I am not the only Kujo's Place on youtube.
-- I will be sharing files from the DayZ Editor .dze, .json, .xml.
-- Later, DayZ Expansion Ai, DayZ Dynamic Ai Addon - settings as well most likely.
-- Provided I can figure this all out. I am still learning/absorbing what I can. The Editor I am really new at.
-- The Ai - used in DayZ Expansion and DayZ Dynamic Ai Addon have a lot of settings and a wonderful github for information
-- on those settings. What I will be sharing is my own personal settings so you can just copy and paste
-- them into your files so you don't have to gather cords for them and will not know exactly where all
-- the Ai are located without tracking the numbers/cordinates from the files. It will add to the
-- fun and excitement of runniing the maps on your own servers (Surprises). I am currently running 5 small servers.
-- all of which are open to the public so join them and check out what is being worked on and find what is completed.
+ I just joined github today 3-30-2025. I have a youtube channel that I share tutorials/hints ect and game play on
+as well as other things I record while testing edits/builds. YouTube channel is : Kujo's Place
+It's the one with DayZ BlackOut Corvette pictured, I noticed I am not the only Kujo's Place on youtube.
+I will be sharing files from the DayZ Editor .dze, .json, .xml.
+Later, DayZ Expansion Ai, DayZ Dynamic Ai Addon - settings as well most likely.
+Provided I can figure this all out. I am still learning/absorbing what I can. The Editor I am really new at.
+The Ai - used in DayZ Expansion and DayZ Dynamic Ai Addon have a lot of settings and a wonderful github for information
+on those settings. What I will be sharing is my own personal settings so you can just copy and paste
+them into your files so you don't have to gather cords for them and will not know exactly where all
+the Ai are located without tracking the numbers/cordinates from the files. It will add to the
+fun and excitement of runniing the maps on your own servers (Surprises). I am currently running 5 small servers.
+all of which are open to the public so join them and check out what is being worked on and find what is completed.
 
 The following three server providers have percentage discounts for renting for a longer period of time. 
 (Costs may change and these are just what I paid prior to 3-30-2025.. following the notes/my opinions on them. 
